@@ -12,3 +12,6 @@ Classifier:
 <div align=center>
   <img src="./assets/classifier identity transaction.PNG" width="400" align="center"/>
 </div>
+
+<br>
+Using this model, I reached an accuracy of %97 through 100 epochs.
