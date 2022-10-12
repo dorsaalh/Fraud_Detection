@@ -14,4 +14,4 @@ Classifier:
 </div>
 
 <br>
-Using this model, I reached an accuracy of %97 through 100 epochs.
+Using these two models, I reached an accuracy of %97 through 100 epochs.
