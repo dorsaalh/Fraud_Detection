@@ -4,13 +4,13 @@ The purpose of this code is to use a combination of an Autoencoder and a Classif
 Below, you can see the structure of the Autoencoder and Clasiffier Models designed by using both identity and transaction data.<br>
 Autoencoder:
 <div align=center>
-  <img src="./assets/identity and transaction.PNG" width="400" align="center"/>
+  <img src="./assets/identity and transaction.PNG" width="400"/>
 </div>
 
 <br>
 Classifier:
 <div align=center>
-  <img src="./assets/classifier identity transaction.PNG" width="400" align="center"/>
+  <img src="./assets/classifier identity transaction.PNG" width="400"/>
 </div>
 
 <br>
