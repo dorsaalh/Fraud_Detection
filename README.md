@@ -14,4 +14,5 @@ Classifier:
 </div>
 
 <br>
-Using these two models, I reached an accuracy of %97 through 100 epochs.
+Using these two models, I reached an accuracy of %97 through 100 epochs.<br>
+Keras, Sklearn, and Matplotlib are libraries that I have used in this code.
